@@ -36,15 +36,15 @@ OTHER NOTES
 
 1. #include from C is import in python.
 
-Examples:
+> Examples:
 
-from module import anything
-from module.file import anything
+> from module import anything
+> from module.file import anything
 
-Relevant Examples:
+> Relevant Examples:
 
-from helpers import getch
-from helpers.getch import getch
+> from helpers import getch
+> from helpers.getch import getch
 
 2. There is no getch() in Python. To clarify there is no built-in way in Python to read single character from console so we use custom made functions. They are located in helpers/ folder.
 
