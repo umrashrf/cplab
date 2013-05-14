@@ -49,3 +49,5 @@ OTHER NOTES
 2. There is no getch() in Python. To clarify there is no built-in way in Python to read single character from console so we use custom made functions. They are located in helpers/ folder.
 
 3. Some examples/excercises are repeated in some experiments and those programs are not written.
+
+4. From experiment no. 8, I am not doing examples but only exercises. 
