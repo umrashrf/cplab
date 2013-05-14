@@ -27,6 +27,8 @@ If you have Python installed, you can write following command in either Command 
 
 $ python e2_e1.py
 
+Also note the in Windows, Python must be in system PATH variable.
+
 ###OTHER NOTES
 
 1. \#include from C is import in python.
@@ -41,7 +43,7 @@ $ python e2_e1.py
     from helpers import getch <br>
     from helpers.getch import getch
 
-2. There is no getch() in Python. To clarify there is no built-in way in Python to read single character from console so we use custom made functions. They are located in helpers/ folder.
+2. There is no getch() or getche() in Python. To clarify there is no built-in way in Python to read single character from console so we use custom made functions. They are located in helpers/ folder.
 
 3. Some examples/excercises are repeated in some experiments and those programs are not written.
 
