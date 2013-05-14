@@ -50,4 +50,6 @@ OTHER NOTES
 
 3. Some examples/excercises are repeated in some experiments and those programs are not written.
 
-4. From experiment no. 8, I am not doing examples but only exercises. 
+4. For experiment no. 8, I am not doing examples but only exercises.
+
+5. Experiment no. 9 assignments are not done because there is no do while in Python. 
